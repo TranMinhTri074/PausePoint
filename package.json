@@ -1,0 +1,1 @@
+{"name":"pausepoint","version":"1.0.0","private":true,"type":"module","description":"An offline verification coach for suspicious requests, built for Neighborhood Hacks 2026.","scripts":{"test":"node --test","build":"node build.mjs"}}
