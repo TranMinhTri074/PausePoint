@@ -1,2 +1,2 @@
 # PausePoint
-Scam calls identification website
+website for identifying scam calls
